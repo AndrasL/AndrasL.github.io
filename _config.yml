@@ -5,8 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: 
+google_analytics: 
 title: Andras Lenart
 
 defaults:
@@ -16,16 +16,13 @@ defaults:
     values:
       title: Andras Lenart
 
-description: Stylish Jekyll Theme - seeing where this goes
+description: seeing where this goes
 author:
   name: Andras Lenart
   email: andraslenart0@gmail.com  
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme! lookin at this again
-  email_md5: 726351295ec82e145928582f595aa3aa
+  linkedin: www.linkedin.com/in/andras-lenart
+  bio: Researcher and Analyst with the BC Ministry of Health
+  email_md5: andraslenart0@gmail.com
 
 rss_path: feed.xml
 categories_path: categories.html
